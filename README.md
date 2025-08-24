@@ -1,4 +1,4 @@
-# MARLIN: Multi-UUV Acoustic Relative Localization with Variational Inference over Neuralized Factor Graphs
+# MARLIN: Multi-UUV Acoustic Relative Localization via Variational Inference on Neuralized Factor Graphs
 
 ### Authors
 Chengfeng Jia, Rong Su, Yun Lu, Jian Gong, Jinde Cao  
